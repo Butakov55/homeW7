@@ -6,7 +6,7 @@
     parameters:
       - string:
           name: BRANCH
-          default: Homework-4
+          default: master
           description: "Branch for tempest UI OTUS tests"
       - string:
           name: BASE_URL
